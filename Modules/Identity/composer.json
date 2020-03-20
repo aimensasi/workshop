@@ -21,9 +21,5 @@
       "psr-4": {
         "Modules\\Identity\\": ""
       }
-  },
-   "require": {
-     "laravel/passport": "^8.4",
-     "kitetail/zttp": "^0.6.0"
   }
 }
